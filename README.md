@@ -1,4 +1,4 @@
-# mo-rwa
+# MO-RWA
 Engineering applications of multi-objective evolutionary algorithms: A test suite of box-constrained real-world problems
 
 This repo contains the support material used in:
